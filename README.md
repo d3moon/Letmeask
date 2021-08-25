@@ -2,9 +2,9 @@
 
 Letmeask is an amazing question and answer web app.
 
-```bash 
+
 Use the package manager [yarn] (https://www.npmjs.com))o install letmeask.
-```
+
 
 ## Usage
 
