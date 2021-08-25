@@ -3,7 +3,7 @@
 Letmeask is an amazing question and answer web app.
 
 
-Use the package manager ![npm](https://www.npmjs.com) to install letmeask.
+Use the package manager [npm](https://www.npmjs.com) to install letmeask.
 
 
 ## Usage
